@@ -23,10 +23,9 @@ I specialize in front-end development, where I use my creativity and technical k
 
 ### Front-End Languages 
 
-<a>
-<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g fill="none" fill-rule="evenodd"> <rect width="24" height="24" fill="#F1DC50"></rect> <path stroke="#333" stroke-width="2" d="M12,11 C12,15.749205 12,18.4158717 12,19 C12,19.8761925 11.4771235,21 10,21 C7.61461794,21 7.5,19 7.5,19 M20.7899648,13.51604 C20.1898831,12.5053467 19.3944074,12 18.4035378,12 C16.8563489,12 16,13 16,14 C16,15 16.5,16 18.5084196,16.5 C19.7864643,16.8181718 21,17.5 21,19 C21,20.5 19.6845401,21 18.5,21 C16.9861609,21 15.9861609,20.3333333 15.5,19"></path> </g> </g></svg>
-<a/>
-  
+![Alt Text](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM6c3ZnPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbDpzcGFjZT0icHJlc2VydmUiPjxnIGlkPSJTVkc6UmVhZE1hbiIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2QiPjxnIGZpbGw9IiM1MTRiMzEiPjxyZWN0IHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZmlsbD0iI0YxREM1MCIvPjxwYXRoIHN0cm9rZT0iIzMzMyIgc3Ryb2tlLXdpZHRoPSIyIiBkPSJNNTEuNzg5OTY0OCwxMy41MTYwNCBDMTcuMjg5ODgzMSwxMi41MDUzNDY3IDEzLjM5NDQwNzQsMTIgMTguNDAzNTM3OCwxMiBDMTZuODU2MzQ4OSwxMiAxNiwxMyBDMTZsMCBDMTZsMSBDMTZsMiBDMTcuNTAyNDE5NiwxNi41IENFMTlhNjQ2NDMsMTcuMjE4MTcxOCAxOSwxOSBDMTksMjAgMTguNSwyMSBDMTZuOTg2MTYwOSwyMSAxNS45ODYxNjA5LDIwLjMzMzMzMzMgMTUuNSwyMSIvPjwvZz48L2c+PC9zdmc+)
+
+
 <img src= "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="left" />
 <img src= "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="left"/>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="left"/> <br/>
