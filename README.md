@@ -3,7 +3,7 @@
 
 Hi, I'm a frontend developer with a passion for building beautiful and functional user interfaces. I have experience working with React, Next js, and Vite, and I'm always looking for new technologies and frameworks to learn and improve my skills. I'm a strong believer in writing clean, maintainable code, and I'm committed to following best practices and industry standards. I'm also a team player and I enjoy working collaboratively with designers and backend developers to bring projects to life. When I'm not coding, I enjoy playing Video games, hiking, and traveling.
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=BeatriceWambuiMbugua)
+![Profile View Counter](https://komarev.com/ghpvc/?username=john-muchuku)
 
 ## Github Stats
 
