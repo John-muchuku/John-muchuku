@@ -19,7 +19,7 @@ I specialize in front-end development, where I use my creativity and technical k
 
 # Tech Stacks
 
-<img src= "https://myresumennntest.netlify.app/_next/image?url=%2Fimg%2Fg3.png&w=2048&q=75" align="center" height="212" />
+<img src= "https://myresumennntest.netlify.app/_next/image?url=%2Fimg%2Fg3.png&w=2048&q=75" align="center" height="212" width="full" />
 
 <img src= "https://myresumennntest.netlify.app/_next/image?url=%2Fimg%2Fg6.png&w=2048&q=75" align="center" />
 
