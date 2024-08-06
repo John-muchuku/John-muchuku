@@ -1,4 +1,4 @@
-# Hi there, I Am Beatrice! 👋
+# Hi there, I Am John! 👋
 
 <a href="" target="_blank"><img src="" alt="image host"/></a>
 # Bio 
