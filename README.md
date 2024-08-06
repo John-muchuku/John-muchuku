@@ -1,6 +1,6 @@
 # Hi there, I Am John! 👋
 
-<a href="" target="_blank"><img src="" alt="image host"/></a>
+<a href="https://myresumennntest.netlify.app/" target="_blank"><img src="https://myresumennntest.netlify.app/_next/image?url=%2Fimg%2Ft.png&w=2048&q=75" alt="image host"/></a>
 # Bio 
 
 I specialize in front-end development, where I use my creativity and technical knowledge to craft visually appealing user interfaces that provide an exceptional user experience. I love working with Figma, a powerful design tool that enables me to create stunning mockups and prototypes. When I'm not coding, I enjoy sharing my expertise by mentoring young people who aspire to be tech-savvy. I emphasize the importance of approaching technology with empathy and a human touch, as I believe this is what sets great developers apart. Welcome to my world 🌍, where design 🎨 and humanity 👏🏾 meet to create amazing user experiences!
@@ -23,7 +23,7 @@ I specialize in front-end development, where I use my creativity and technical k
 
 ### Front-End Languages 
 
-![Alt Text](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM6c3ZnPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbDpzcGFjZT0icHJlc2VydmUiPjxnIGlkPSJTVkc6UmVhZE1hbiIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2QiPjxnIGZpbGw9IiM1MTRiMzEiPjxyZWN0IHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZmlsbD0iI0YxREM1MCIvPjxwYXRoIHN0cm9rZT0iIzMzMyIgc3Ryb2tlLXdpZHRoPSIyIiBkPSJNNTEuNzg5OTY0OCwxMy41MTYwNCBDMTcuMjg5ODgzMSwxMi41MDUzNDY3IDEzLjM5NDQwNzQsMTIgMTguNDAzNTM3OCwxMiBDMTZuODU2MzQ4OSwxMiAxNiwxMyBDMTZsMCBDMTZsMSBDMTZsMiBDMTcuNTAyNDE5NiwxNi41IENFMTlhNjQ2NDMsMTcuMjE4MTcxOCAxOSwxOSBDMTksMjAgMTguNSwyMSBDMTZuOTg2MTYwOSwyMSAxNS45ODYxNjA5LDIwLjMzMzMzMzMgMTUuNSwyMSIvPjwvZz48L2c+PC9zdmc+)
+
 
 
 <img src= "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="left" />
