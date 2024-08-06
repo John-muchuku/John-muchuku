@@ -24,9 +24,8 @@ I specialize in front-end development, where I use my creativity and technical k
 
 
 
-<img src= "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="left" />
-<img src= "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="left"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="left"/> <br/>
+<img src= "https://myresumennntest.netlify.app/_next/image?url=%2Fimg%2Ft2.png&w=2048&q=75" align="center" />
+
 
 ### Front-End Frameworks and Libraries
 
