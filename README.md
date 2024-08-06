@@ -1,7 +1,7 @@
 <a href="https://myresumennntest.netlify.app/" target="_blank"><img src="https://myresumennntest.netlify.app/_next/image?url=%2Fimg%2Fg.png&w=2048&q=75" alt="image host"/></a>
 # Bio 
 
-I specialize in front-end development, where I use my creativity and technical knowledge to craft visually appealing user interfaces that provide an exceptional user experience. I love working with Figma, a powerful design tool that enables me to create stunning mockups and prototypes. When I'm not coding, I enjoy sharing my expertise by mentoring young people who aspire to be tech-savvy. I emphasize the importance of approaching technology with empathy and a human touch, as I believe this is what sets great developers apart. Welcome to my world 🌍, where design 🎨 and humanity 👏🏾 meet to create amazing user experiences!
+Hi, I'm a frontend developer with a passion for building beautiful and functional user interfaces. I have experience working with React, Next js, and Vite, and I'm always looking for new technologies and frameworks to learn and improve my skills. I'm a strong believer in writing clean, maintainable code, and I'm committed to following best practices and industry standards. I'm also a team player and I enjoy working collaboratively with designers and backend developers to bring projects to life. When I'm not coding, I enjoy playing Video games, hiking, and traveling.
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=BeatriceWambuiMbugua)
 
