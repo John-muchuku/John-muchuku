@@ -1,5 +1,3 @@
-# Hi there, I Am John! 👋
-
 <a href="https://myresumennntest.netlify.app/" target="_blank"><img src="https://myresumennntest.netlify.app/_next/image?url=%2Fimg%2Fttt.png&w=2048&q=75" alt="image host"/></a>
 # Bio 
 
