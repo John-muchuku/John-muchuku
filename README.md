@@ -1,4 +1,4 @@
-<a href="https://myresumennntest.netlify.app/" target="_blank"><img src="https://myresumennntest.netlify.app/_next/image?url=%2Fimg%2Fttt.png&w=2048&q=75" alt="image host"/></a>
+<a href="https://myresumennntest.netlify.app/" target="_blank"><img src="https://myresumennntest.netlify.app/_next/image?url=%2Fimg%2Fg.png&w=2048&q=75" alt="image host"/></a>
 # Bio 
 
 I specialize in front-end development, where I use my creativity and technical knowledge to craft visually appealing user interfaces that provide an exceptional user experience. I love working with Figma, a powerful design tool that enables me to create stunning mockups and prototypes. When I'm not coding, I enjoy sharing my expertise by mentoring young people who aspire to be tech-savvy. I emphasize the importance of approaching technology with empathy and a human touch, as I believe this is what sets great developers apart. Welcome to my world 🌍, where design 🎨 and humanity 👏🏾 meet to create amazing user experiences!
@@ -19,38 +19,27 @@ I specialize in front-end development, where I use my creativity and technical k
 
 # Tech Stacks
 
-### Front-End Languages 
-
-
-
-
-<img src= "https://myresumennntest.netlify.app/_next/image?url=%2Fimg%2Ft3.png&w=2048&q=75" align="center" />
-
+<img src= "https://myresumennntest.netlify.app/_next/image?url=%2Fimg%2Fg3.png&w=2048&q=75" align="center" />
 
 ###
 
+<img src= "https://myresumennntest.netlify.app/_next/image?url=%2Fimg%2Fg6.png&w=2048&q=75" align="center" />
 
-<img src= "https://myresumennntest.netlify.app/_next/image?url=%2Fimg%2Ft4.png&w=2048&q=75" align="center" />
+
+### 
+<img src= "https://myresumennntest.netlify.app/_next/image?url=%2Fimg%2Fg2.png&w=2048&q=75" align="center" />
+
+ <br/>
+
+### 
+<img src= "https://myresumennntest.netlify.app/_next/image?url=%2Fimg%2Fg5.png&w=2048&q=75" align="center" />
 
 
-### Back-End Languages
-<img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" align = "left"/>
-<img src = "https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" align = "left"/> <br/>
+### 
+<img src= "https://myresumennntest.netlify.app/_next/image?url=%2Fimg%2Fg4.png&w=2048&q=75" />
 
-### Back-End Frameworks and Libraries
-<img src = "https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" align = "left"/>
-<img src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" align = "left"/> <br/>
 
-### Databases
-
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" align="left"/>
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" align= "left" />
-<img src= "https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" align= "left" />
-<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" align = "left" />
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" align="left"/> <br/>
-
-### Design
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://myresumennntest.netlify.app/_next/image?url=%2Fimg%2Fg7.png&w=2048&q=75"/>
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
