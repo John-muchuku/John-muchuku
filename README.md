@@ -21,17 +21,12 @@ I specialize in front-end development, where I use my creativity and technical k
 
 <img src= "https://myresumennntest.netlify.app/_next/image?url=%2Fimg%2Fg3.png&w=2048&q=75" align="center" height="212" />
 
-###
-
 <img src= "https://myresumennntest.netlify.app/_next/image?url=%2Fimg%2Fg6.png&w=2048&q=75" align="center" />
 
-### 
 <img src= "https://myresumennntest.netlify.app/_next/image?url=%2Fimg%2Fg2.png&w=2048&q=75" align="center" width="370" height="212" />
 
-### 
 <img src= "https://myresumennntest.netlify.app/_next/image?url=%2Fimg%2Fg5.png&w=2048&q=75" align="center" height="212" />
 
-### 
 <img src= "https://myresumennntest.netlify.app/_next/image?url=%2Fimg%2Fg4.png&w=2048&q=75" height="212" />
 
 <img src="https://myresumennntest.netlify.app/_next/image?url=%2Fimg%2Fg7.png&w=2048&q=75" width="370" height="212" />
