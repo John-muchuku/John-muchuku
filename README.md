@@ -24,15 +24,14 @@ I specialize in front-end development, where I use my creativity and technical k
 
 
 
-<img src= "https://myresumennntest.netlify.app/_next/image?url=%2Fimg%2Ft2.png&w=2048&q=75" align="center" />
+<img src= "https://myresumennntest.netlify.app/_next/image?url=%2Fimg%2Ft3.png&w=2048&q=75" align="center" />
 
 
-### Front-End Frameworks and Libraries
+###
 
-<img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" align="left"/>
-<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" align="left"/>
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" align="left"/>
-<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" align="left"/> <br/>
+
+<img src= "https://myresumennntest.netlify.app/_next/image?url=%2Fimg%2Ft4.png&w=2048&q=75" align="center" />
+
 
 ### Back-End Languages
 <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" align = "left"/>
