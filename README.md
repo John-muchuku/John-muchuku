@@ -7,17 +7,12 @@ Hi, I'm a frontend developer with a passion for building beautiful and functiona
 
 ## Github Stats
 
-### --
 
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=john-muchuku&count_private=true&show_icons=true&theme=cobalt" style="margin-bottom: 20px">
-  <img  align="left" src = "https://github-readme-streak-stats.herokuapp.com/?user=john-muchuku&theme=gotham">
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=john-muchuku&count_private=true&show_icons=true&theme=cobalt" >
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=john-muchuku&theme=gotham">
 </a>
 
-### --
-
 <img src="https://github-readme-stats.vercel.app/api?username=john-muchuku&theme=radical&show_icons=true" alt="Github Stats"/>
-
-### --
 
 ![Muchuku's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@johnmuchuku&theme=gotham&layout=compact)
 
