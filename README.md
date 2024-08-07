@@ -12,7 +12,11 @@ Hi, I'm a frontend developer with a passion for building beautiful and functiona
   <img  align="left" src = "https://github-readme-streak-stats.herokuapp.com/?user=john-muchuku&theme=gotham">
 </a>
 
+<br/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=john-muchuku&theme=radical&show_icons=true" alt="Github Stats"/>
+
+<br/>
 
 ![Muchuku's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=johnmuchuku&theme=gotham&layout=compact)
 
