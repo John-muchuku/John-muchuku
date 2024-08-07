@@ -18,17 +18,17 @@ Hi, I'm a frontend developer with a passion for building beautiful and functiona
 
 # Tech Stacks
 
-<img src= "https://myresumennntest.netlify.app/_next/image?url=%2Fimg%2Fg3.png&w=2048&q=75" height="212" width="800" />
+<img src= "https://myresumennntest.netlify.app/_next/image?url=%2Fimg%2Fg3.png&w=2048&q=75" width="800" />
 
 <img src= "https://myresumennntest.netlify.app/_next/image?url=%2Fimg%2Fg6.png&w=2048&q=75"  width="800" />
 
-<img src= "https://myresumennntest.netlify.app/_next/image?url=%2Fimg%2Fg2.png&w=2048&q=75" align="center" width="370" height="212" />
+<img src= "https://myresumennntest.netlify.app/_next/image?url=%2Fimg%2Fg2.png&w=2048&q=75" align="center"  />
 
-<img src= "https://myresumennntest.netlify.app/_next/image?url=%2Fimg%2Fg5.png&w=2048&q=75" align="center" height="212" />
+<img src= "https://myresumennntest.netlify.app/_next/image?url=%2Fimg%2Fg5.png&w=2048&q=75" align="center"  />
 
-<img src= "https://myresumennntest.netlify.app/_next/image?url=%2Fimg%2Fg4.png&w=2048&q=75" height="212" width="800" />
+<img src= "https://myresumennntest.netlify.app/_next/image?url=%2Fimg%2Fg4.png&w=2048&q=75"  width="800" />
 
-<img src="https://myresumennntest.netlify.app/_next/image?url=%2Fimg%2Fg7.png&w=2048&q=75" width="370" height="212" />
+<img src="https://myresumennntest.netlify.app/_next/image?url=%2Fimg%2Fg7.png&w=2048&q=75"  height="212" />
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
