@@ -18,7 +18,7 @@ Hi, I'm a frontend developer with a passion for building beautiful and functiona
 
 
   
-![Muchuku's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=johnmuchuku&theme=gotham&layout=compact)
+![Muchuku's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@johnmuchuku&theme=gotham&layout=compact)
 
 
 # Tech Stacks
